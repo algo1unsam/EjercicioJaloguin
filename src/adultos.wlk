@@ -3,7 +3,7 @@ import legion.*
 import elementos.*
 
 object mirca {
-	var tolerancia = 23
+	var tolerancia = 22
 
 	method tolerancia(){
 		return tolerancia
